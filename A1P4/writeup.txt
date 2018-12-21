@@ -1,0 +1,10 @@
+Suyash Agrawal (2015CS10262) Saket Dingliwal(2015CS10254)
+https://owncloud.iitd.ac.in/owncloud/index.php/s/5bypRrMfaPRaAS5/download
+
+train.py: The file used to create the final model
+The file was created from a Python notebook so it is possible that it might produce some errors.
+
+test.py: The code to test the model, called by run.sh
+
+
+
